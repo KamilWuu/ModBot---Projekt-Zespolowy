@@ -1,8 +1,7 @@
 # ModBot---Projekt-Zespolowy
 
 1 - Założenia projektowe
-Robot modułowy ModBot będzie złożony z jednostki głównej – Platformy Mobilnej wraz z pilo-
-tem zdalnego sterowania za pomocą technologii Bluetooth. Platforma ta będzie miała możliwość
+Robot modułowy ModBot będzie złożony z jednostki głównej – Platformy Mobilnej wraz z pilotem zdalnego sterowania za pomocą technologii Bluetooth. Platforma ta będzie miała możliwość
 doczepienia modułów określających przeznaczenie robota:
 
 • moduł MiniSumo,
