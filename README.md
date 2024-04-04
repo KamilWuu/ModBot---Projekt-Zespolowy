@@ -26,7 +26,11 @@ zdalnego sterowania.
 
 3 - Skład zespołu:
 Kamil Winnicki - Mechanika i embedded,
+
 Oliwier Woźniak -  Elektronika,
+
 Patryk Peroński - Oprogramowanie i embeeded,
+
 Rafał Koziołek - Mechanika i elektronika,
+
 Jakub Frąckowiak - Kierownik zespołu, organizacja pracy,
