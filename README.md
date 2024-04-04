@@ -1,4 +1,7 @@
 # ModBot---Projekt-Zespolowy
+![image](https://github.com/KamilWuu/ModBot---Projekt-Zespolowy/assets/116459527/d8e9aae4-2279-414b-ba00-4e8e3996f81b)
+
+
 
 1 - Założenia projektowe
 Robot modułowy ModBot będzie złożony z jednostki głównej – Platformy Mobilnej wraz z pilotem zdalnego sterowania za pomocą technologii Bluetooth. Platforma ta będzie miała możliwość
