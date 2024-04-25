@@ -483,6 +483,11 @@
     (uuid e646cf20-6518-4276-a990-47df505bf1f2)
   )
 
+  (text "Dodać tantal" (at 105.41 25.4 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 89115852-b8fa-439b-9c68-4a64c1bd006c)
+  )
+
   (global_label "PWM_DRV1" (shape output) (at 31.75 55.88 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 02a66c40-fafa-4d4a-acc1-c68725b50dab)
