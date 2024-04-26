@@ -1,0 +1,16 @@
+.293D476X9010B2TE3 :1 ;Solid Tantalum Surface Mount Chip Capacitors TANTAMOUNT(TM), Molded Case, Standard Industrial Grade
+CAPPM3528X210N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 293D476X9010B2TE3
+~!TME Electronic Components Part Number (-)
+~!TME Electronic Components Price/Stock (-)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (293D476X9010B2TE3)
+~!Link Datasheet (http://www.vishay.com/docs/40002/293d.pdf)
+~!Height (2.1mm)
+~!3D_Model (293D476X9010B2TE3)
+"293D476X9010B2TE3"
+1.1!U 2.1!U 

@@ -1,4 +1,4 @@
-22361965426325034
+22358537292990284
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91490,13 +91490,6 @@ Integrated Circuit
 47
 47
 User_defined_footprints
-OLED
-
-
-0
-4
-4
-User_defined_footprints
 SOIC127P600X175-14N
 SO 14
 Integrated Circuit
@@ -91510,13 +91503,6 @@ Integrated Circuit
 0
 6
 6
-User_defined_footprints
-Sterowniki silników
-
-
-0
-0
-0
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
