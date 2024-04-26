@@ -1,4 +1,4 @@
-22358537292990284
+22365393696309950
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91483,12 +91483,26 @@ Capacitor Polarised
 2
 2
 User_defined_footprints
+DTSM31NVTR
+DTSM-31N-V-T/R-2
+Switch
+0
+2
+2
+User_defined_footprints
 ESP32WROOM32EN4
 ESP32-WROOM-32E-N4-1
 Integrated Circuit
 0
 47
 47
+User_defined_footprints
+OLED
+
+
+0
+4
+4
 User_defined_footprints
 SOIC127P600X175-14N
 SO 14
@@ -91503,6 +91517,20 @@ Integrated Circuit
 0
 6
 6
+User_defined_footprints
+Sterowniki silników
+
+
+0
+6
+6
+User_defined_footprints
+Wtykany_ESP32
+
+
+0
+28
+28
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
