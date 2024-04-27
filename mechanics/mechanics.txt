@@ -1,1 +1,34 @@
-notatka
+backend i frontend - java script
+
+Framework - react mui
+
+czysty mysql
+
+
+
+
+
+HOTEL:
+- piętra, numer pokoju - numer pokoju zaczyna się od piętra
+
+Pokoj
+- numer pokoju
+- pietro
+- liczba lozek
+- liczba miejsca
+- standard pokoju
+- cena za osobe
+- cena za pokoj
+- kuchnia czy jest
+
+Rezerwacja:
+mozna wyszukac po wlasnosciach pokoju, po liczbie miejsc
+wpisywac ludzi co drugi pokoj
+- data
+
+
+aplikacja webowa
+
+sortowanie
+filtr
+cena itp
