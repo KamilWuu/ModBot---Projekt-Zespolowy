@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP23018-E/SO
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=28
+Version=6.1
+Released=2015-04-16 09:48:08
+Downloaded=2024-04-27 16:31:08
+3D=Y

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "User_defined_footprints")(type "KiCad")(uri "C:/Users/owozn/Documents/GitHub/ModBot---Projekt-Zespolowy/electronics/User_defined_footprints.pretty")(options "")(descr ""))
+)
