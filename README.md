@@ -1,5 +1,5 @@
 # ModBot---Projekt-Zespolowy
-![image](https://github.com/KamilWuu/ModBot---Projekt-Zespolowy/assets/116459527/d8e9aae4-2279-414b-ba00-4e8e3996f81b)
+![image](https://github.com/KamilWuu/ModBot---Projekt-Zespolowy/assets/116459527/95151b5b-58de-48ef-a69f-dc6f993346fe)
 
 
 
