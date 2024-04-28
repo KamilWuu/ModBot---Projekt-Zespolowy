@@ -45,4 +45,3 @@ Rafał Koziołek - Mechanika i elektronika,
 Jakub Frąckowiak - Kierownik zespołu, organizacja pracy,
 
 
-test123
