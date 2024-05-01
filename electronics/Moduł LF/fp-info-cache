@@ -1,4 +1,4 @@
-23142142277509227
+23143856852135579
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93993,8 +93993,8 @@ Potencjometr 3,2x3,4
 
 
 0
-0
-0
+3
+3
 User_defined_footprints
 SOIC127P600X175-14N
 SO 14
@@ -94002,6 +94002,13 @@ Integrated Circuit
 0
 14
 14
+User_defined_footprints
+SOIC127P1030X265-28N
+28 LEAD PLastic Small Outline (S))-Wide 7.50mm body [SOIC]
+Integrated Circuit
+0
+28
+28
 User_defined_footprints
 SOTFL50P160X60-6N
 DRL (R-PDSO-N6)-
