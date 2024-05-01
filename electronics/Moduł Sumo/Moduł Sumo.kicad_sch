@@ -823,175 +823,6 @@
 				)
 			)
 		)
-		(symbol "Device:LED"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LED"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Light emitting diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "LED diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LED_0_1"
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "LED_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:R"
 			(pin_numbers hide)
 			(pin_names
@@ -2039,16 +1870,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 80.01) (xy 187.96 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0070833c-3454-418a-ba3a-d6e1bd2186de")
-	)
-	(wire
-		(pts
 			(xy 99.06 35.56) (xy 111.76 35.56)
 		)
 		(stroke
@@ -2539,16 +2360,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 80.01) (xy 175.26 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4527075-5ff2-4234-ba3d-dd9e5a9616d3")
-	)
-	(wire
-		(pts
 			(xy 180.34 25.4) (xy 185.42 25.4)
 		)
 		(stroke
@@ -2684,18 +2495,6 @@
 		(uuid 8ad213e2-0fc4-413f-9d37-c0c1f94d77d5)
 	)
 	(rectangle
-		(start 170.18 59.69)
-		(end 196.85 99.06)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid c5b0ffc0-3080-47c9-9592-1aac9d2b4758)
-	)
-	(rectangle
 		(start 90.17 16.51)
 		(end 199.39 58.42)
 		(stroke
@@ -2706,16 +2505,6 @@
 			(type none)
 		)
 		(uuid ecb36425-4c5e-46b2-9aa7-ea41c06e7f52)
-	)
-	(text "Sygnalizacja wykrycia"
-		(exclude_from_sim no)
-		(at 181.61 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "511038cf-3608-4819-93dd-5f209ae26471")
 	)
 	(text "Złącza Reset"
 		(exclude_from_sim no)
@@ -3376,28 +3165,6 @@
 			)
 		)
 	)
-	(global_label "INTB"
-		(shape input)
-		(at 175.26 71.12 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ce2eab23-4241-48aa-9a0a-65843fa437fd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.26 63.9619 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SD3"
 		(shape bidirectional)
 		(at 177.8 36.83 180)
@@ -3530,28 +3297,6 @@
 			)
 		)
 	)
-	(global_label "INTA"
-		(shape input)
-		(at 187.96 71.12 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f612239d-9da9-4cb8-a30c-e83283b26a19")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.96 64.1433 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RST_M"
 		(shape output)
 		(at 31.75 110.49 180)
@@ -3657,75 +3402,6 @@
 			(project "Moduł Sumo"
 				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 175.26 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "08481adc-c4ef-44ca-a357-b419b8c39789")
-		(property "Reference" "R32"
-			(at 176.53 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330R"
-			(at 176.53 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 173.482 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 175.26 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 175.26 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2dccb22d-b5bf-4794-804a-e56b093e1821")
-		)
-		(pin "2"
-			(uuid "7c3a561c-ca3c-4846-bfde-641167857147")
-		)
-		(instances
-			(project "Moduł Sumo"
-				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
-					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -3938,76 +3614,6 @@
 			(project "Moduł Sumo"
 				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 175.26 83.82 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2cfbc462-b2a9-4f49-b1c5-81ce053380f3")
-		(property "Reference" "D7"
-			(at 179.07 84.1374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 179.07 86.6774 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
-			(at 175.26 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 175.26 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 175.26 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8755a165-561a-41a6-8850-b9250fe3b2d4")
-		)
-		(pin "2"
-			(uuid "d140a0b0-7fea-4df5-9f7a-a1a3e37ff6fd")
-		)
-		(instances
-			(project "Moduł Sumo"
-				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
-					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -5099,73 +4705,6 @@
 			(project "Moduł Sumo"
 				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
 					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "GND_1")
-		(lib_id "power:GND")
-		(at 175.26 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "77f3ff14-ba47-4be2-b7f6-91ed9b421739")
-		(property "Reference" "#PWR047"
-			(at 175.26 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 175.26 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 175.26 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 175.26 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "990aa3cc-5a0e-42f2-a1bd-490c42abfdbc")
-		)
-		(instances
-			(project "Moduł Sumo"
-				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
-					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -6539,143 +6078,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 187.96 83.82 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d36d646d-193a-4bdb-a66a-3b3689682ef0")
-		(property "Reference" "D8"
-			(at 191.77 84.1374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 191.77 86.6774 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
-			(at 187.96 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 187.96 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 187.96 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "21074249-52af-46ab-acd9-6004aa495672")
-		)
-		(pin "2"
-			(uuid "37c181fd-de25-44d1-a00f-66928d4f6d40")
-		)
-		(instances
-			(project "Moduł Sumo"
-				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "GND_1")
-		(lib_id "power:GND")
-		(at 187.96 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d46393b5-ab47-42ed-b32f-5281bc60c04b")
-		(property "Reference" "#PWR048"
-			(at 187.96 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 187.96 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 187.96 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 187.96 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0f3038d-90fd-4452-97b9-1e35317c5872")
-		)
-		(instances
-			(project "Moduł Sumo"
-				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 34.29 105.41 0)
 		(unit 1)
@@ -7008,75 +6410,6 @@
 			(project "Moduł Sumo"
 				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 187.96 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eba9bca6-4f6a-4c7c-b38a-5c901c889731")
-		(property "Reference" "R33"
-			(at 189.23 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330R"
-			(at 189.23 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 186.182 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 187.96 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 187.96 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dd3bbdc2-f84d-4730-b6d9-07c76398cbfc")
-		)
-		(pin "2"
-			(uuid "49d99cfa-a947-4216-96be-e42ccc31c46a")
-		)
-		(instances
-			(project "Moduł Sumo"
-				(path "/41fb730f-bebd-42e5-a465-4932aa5a380a"
-					(reference "R33")
 					(unit 1)
 				)
 			)
