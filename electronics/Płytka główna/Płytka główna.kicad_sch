@@ -5,6 +5,120 @@
 	(uuid "48b4b40b-d4f1-40f0-9775-3d42bae33b86")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 16.51 67.31)
+		(size 34.29 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "57d85336-6c2b-40e7-8c51-65a8ef678f23")
+		(property "Sheetname" "Zasilanie"
+			(at 16.51 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zasilanie.kicad_sch"
+			(at 16.51 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Płytka główna"
+				(path "/48b4b40b-d4f1-40f0-9775-3d42bae33b86"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 41.91)
+		(size 34.29 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ad343c71-81f0-4912-80a9-e5f2f68e4c63")
+		(property "Sheetname" "Komunikacja"
+			(at 16.51 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "komunikacja.kicad_sch"
+			(at 16.51 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Płytka główna"
+				(path "/48b4b40b-d4f1-40f0-9775-3d42bae33b86"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 16.51)
+		(size 34.29 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e8ca809d-b1b3-4149-b167-d06e052a38fe")
+		(property "Sheetname" "Elementy wtykane"
+			(at 16.51 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "elemanty_wtykane.kicad_sch"
+			(at 16.51 37.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Płytka główna"
+				(path "/48b4b40b-d4f1-40f0-9775-3d42bae33b86"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

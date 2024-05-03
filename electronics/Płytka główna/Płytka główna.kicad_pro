@@ -400,6 +400,18 @@
     [
       "48b4b40b-d4f1-40f0-9775-3d42bae33b86",
       "Główny"
+    ],
+    [
+      "e8ca809d-b1b3-4149-b167-d06e052a38fe",
+      "Elementy wtykane"
+    ],
+    [
+      "ad343c71-81f0-4912-80a9-e5f2f68e4c63",
+      "Komunikacja"
+    ],
+    [
+      "57d85336-6c2b-40e7-8c51-65a8ef678f23",
+      "Zasilanie"
     ]
   ],
   "text_variables": {}

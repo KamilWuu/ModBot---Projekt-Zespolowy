@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP73844-840I/MS
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=5.1
+Released=2015-04-16 09:48:08
+Downloaded=2024-05-03 17:10:45
+3D=Y

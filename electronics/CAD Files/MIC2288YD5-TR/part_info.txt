@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MIC2288YD5-TR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=4.1
+Released=2017-10-26 08:56:35
+Downloaded=2024-05-03 16:45:51
+3D=Y
