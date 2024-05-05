@@ -198,7 +198,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "89800706-f883-42c9-ba24-179e64a2b6f0")
@@ -351,7 +351,7 @@
 			(uuid "97191266-2bac-4278-9a5f-fbadd6b28162")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4bb4385c-c231-4251-b90e-014fafd381fc")
 			(effects
@@ -609,7 +609,7 @@
 		(descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D4"
-			(at 0 1.4 270)
+			(at 0 1.4 -90)
 			(layer "F.SilkS")
 			(uuid "c8426dfe-9499-489b-8a03-8e99c4ee4415")
 			(effects
@@ -620,7 +620,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4e2467c1-3eee-4a03-8e15-5f91ebc34b23")
@@ -784,7 +784,7 @@
 			(uuid "de7fd1f3-dba8-4733-ab0c-64150f1a1dd4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "20650daa-6a5c-470a-bc55-5d6e2ac63773")
 			(effects
@@ -833,7 +833,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C10"
-			(at 0 -1.13 270)
+			(at 0 -1.13 -90)
 			(layer "F.SilkS")
 			(uuid "48a4c817-9450-4e58-a6b9-f6cc0d3f0e10")
 			(effects
@@ -844,7 +844,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b20e7fa5-c47b-4501-8788-9a8fd65f2aea")
@@ -997,7 +997,7 @@
 			(uuid "1caf72d2-1418-42a7-988e-3370d62e1acd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "f3ec4233-08b4-4ad2-836d-e937ee4511a8")
 			(effects
@@ -1682,7 +1682,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e44028e0-6d5b-483f-9ef9-fdfa2c6c91c9")
@@ -1835,7 +1835,7 @@
 			(uuid "3935edfa-b3fe-400c-9de8-db63ebd8cad3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a06c0ff7-9b9f-4d21-9e28-4a1f5b9c6db1")
 			(effects
@@ -2791,7 +2791,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C9"
-			(at 0 -1.16 270)
+			(at 0 -1.16 -90)
 			(layer "F.SilkS")
 			(uuid "2be6fb62-6f58-4dd6-97e6-11be05520b59")
 			(effects
@@ -2802,7 +2802,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "786a927d-7fdd-4f16-b9bf-5ea0131c544b")
@@ -2955,7 +2955,7 @@
 			(uuid "a9e123d3-a87a-4850-8726-9c517f3c7d5e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "39268902-43a3-48bf-bd65-9a3150eff21f")
 			(effects
@@ -4212,7 +4212,7 @@
 			)
 		)
 		(property "Value" "ESP32_2"
-			(at 2.675 17.1 270)
+			(at 2.675 17.1 -90)
 			(layer "F.SilkS")
 			(uuid "74df7ee8-6c89-44c9-ad88-d988d84d4874")
 			(effects
@@ -4414,7 +4414,7 @@
 			(uuid "90263e21-d8e9-4304-b266-6c52224a10f5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 16.51 270)
+			(at 0 16.51 -90)
 			(layer "F.Fab")
 			(uuid "72a64f63-5c1c-41d7-b4f8-f7865e002085")
 			(effects
@@ -4597,7 +4597,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R22"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "F.SilkS")
 			(uuid "e8646b03-61b2-4e49-83ea-f5577f411d35")
 			(effects
@@ -4608,7 +4608,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f17e24e6-2cc8-48f0-9eff-ca3f9e9120a1")
@@ -4761,7 +4761,7 @@
 			(uuid "20a157ba-c8b8-4280-ba19-89a4f3f78487")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "d1b4fd49-bf8c-4dcc-bb2f-13931e6f5e8b")
 			(effects
@@ -5225,7 +5225,7 @@
 			)
 		)
 		(property "Value" "33.2kR"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c82a906f-e312-47b9-9613-2a526738299c")
@@ -5378,7 +5378,7 @@
 			(uuid "d4a24684-dcfa-4c16-a85f-f4fb2a4d802c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "af2bfaa8-fa69-4765-8075-9aa4cc9407a5")
 			(effects
@@ -5858,7 +5858,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bed6bde5-87b5-4db8-a76b-832e6b47cc13")
@@ -6022,7 +6022,7 @@
 			(uuid "dbccf6f7-a0f3-46de-aa7b-0d9014751089")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "02593d23-71c1-4759-9deb-aa5dde8e58ed")
 			(effects
@@ -6082,7 +6082,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b88a2ca6-0618-4488-b4d2-4e64f74e03bc")
@@ -6246,7 +6246,7 @@
 			(uuid "abd187bc-047c-4a6d-adc7-3f0a0ca4a955")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a3fcd27f-20b5-48b7-a9b6-00df377f07a4")
 			(effects
@@ -7179,7 +7179,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at -2.7 0 270)
+			(at -2.7 0 -90)
 			(layer "F.SilkS")
 			(uuid "f4a52b77-1c39-4248-829f-aadb09fe331c")
 			(effects
@@ -7190,7 +7190,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 0 1.68 270)
+			(at 0 1.68 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8480a1bf-a431-4c60-a221-3f024a061922")
@@ -7343,7 +7343,7 @@
 			(uuid "d654c50f-d3c8-4363-8dc9-c23bbbb8ed3e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "3295191f-544e-4049-a6d9-12dec104d01f")
 			(effects
@@ -7812,7 +7812,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R10"
-			(at 0 -1.43 270)
+			(at 0 -1.43 -90)
 			(layer "F.SilkS")
 			(uuid "1b6cee5c-8afe-41f2-a51a-18f8b0a12082")
 			(effects
@@ -7823,7 +7823,7 @@
 			)
 		)
 		(property "Value" "10kR"
-			(at 0 1.43 270)
+			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7b84d630-9aca-44c4-9d03-178efe45e769")
@@ -7976,7 +7976,7 @@
 			(uuid "439dcefd-801c-4d98-bd79-acdcee80ab34")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "cfe3338f-23bf-4cb8-81bc-466cabfbcf88")
 			(effects
@@ -8034,7 +8034,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "50b4fa55-c042-4a6f-8afa-da9685d79b98")
@@ -8198,7 +8198,7 @@
 			(uuid "79f672d4-37dc-4d8b-88a8-56e3f10ddf84")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "9f04562d-ec67-401d-bf75-6aff5c930a5e")
 			(effects
@@ -8469,7 +8469,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd30bd20-88b8-4161-9d87-0c160d6b2c22")
@@ -8622,7 +8622,7 @@
 			(uuid "68128a43-caf9-4bed-9b8f-f2ead1aebdb3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "da93f6c3-aea8-4269-9068-c925a0cb6ebf")
 			(effects
@@ -9037,7 +9037,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f8057aa8-0635-4b53-86d0-f252f1653f54")
@@ -9201,7 +9201,7 @@
 			(uuid "bb16e678-b73a-4a86-8c5e-e1da5f099197")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "562e33fa-7993-42dd-8193-0c8b994b1cb4")
 			(effects
@@ -9961,7 +9961,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R24"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "F.SilkS")
 			(uuid "9b56c75e-a82e-4ce9-b31e-8de4e84f9554")
 			(effects
@@ -9972,7 +9972,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c07edfc3-2d0a-4777-8ddf-c06dcb52b83e")
@@ -10125,7 +10125,7 @@
 			(uuid "a551b2b9-9f45-4672-b581-01421c00c995")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "d25a10f6-d715-4fab-8bc0-26508ecb7b05")
 			(effects
@@ -10574,7 +10574,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "F.SilkS")
 			(uuid "ee48a5e7-61a2-45f9-8a1b-b99eb0270442")
 			(effects
@@ -10585,7 +10585,7 @@
 			)
 		)
 		(property "Value" "10kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b55f38ad-674a-4bef-8a2b-418d6ce29c1e")
@@ -10738,7 +10738,7 @@
 			(uuid "1b607eaf-1d02-45fe-90b3-95d7408f10f3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "a2f3a85e-9f58-43f8-b9b7-140db726477c")
 			(effects
@@ -10796,7 +10796,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d46000e9-af12-4e82-90e9-030c7d46a1fc")
@@ -10960,7 +10960,7 @@
 			(uuid "eb4eb192-0682-421f-bd4a-77bf9a28f456")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "38c59450-d531-4edc-b4c3-4b53b9326f28")
 			(effects
@@ -11009,7 +11009,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R26"
-			(at 2.5 0 270)
+			(at 2.5 0 -90)
 			(layer "F.SilkS")
 			(uuid "7e145d7a-e66a-464c-bb79-7f2830a29f31")
 			(effects
@@ -11020,7 +11020,7 @@
 			)
 		)
 		(property "Value" "10kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6fee2c0-3928-40c4-a9c2-005378fbacc0")
@@ -11173,7 +11173,7 @@
 			(uuid "01297605-5a4a-41c1-9edf-6a2f650dfaca")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "12850e97-de48-4392-99d1-e7b7052742a7")
 			(effects
@@ -11696,7 +11696,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
-			(at 0 -1.2 270)
+			(at 0 -1.2 -90)
 			(layer "F.SilkS")
 			(uuid "883d2e41-6a1f-492b-a237-5db52efddd9a")
 			(effects
@@ -11707,7 +11707,7 @@
 			)
 		)
 		(property "Value" "2,4kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bd9c61ee-ef52-4cad-ba5e-d188acebda44")
@@ -11860,7 +11860,7 @@
 			(uuid "e0c4a115-56d8-46bf-b369-10f471c20140")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "a97ab19b-1220-446e-849d-0edca3068b96")
 			(effects
@@ -12506,7 +12506,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R15"
-			(at 0 1.6 270)
+			(at 0 1.6 -90)
 			(layer "F.SilkS")
 			(uuid "9faffcbd-8089-4328-9084-cf3e386783eb")
 			(effects
@@ -12517,7 +12517,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 0 1.43 270)
+			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "871f722d-d192-4aa2-a6a4-331ed1dbdb8b")
@@ -12670,7 +12670,7 @@
 			(uuid "cb5fc813-f4cb-4c1d-a40a-b187b1aa512a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "b0853ed6-b5dd-4bc1-9ccb-8ebb2644b415")
 			(effects
@@ -12939,7 +12939,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b9bb194a-b88c-4de7-935c-1d938f88f1a6")
@@ -13092,7 +13092,7 @@
 			(uuid "92dbec00-aec4-4c29-a7d8-6b1093171ac9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "0e066107-bb99-430a-95d4-a09a670370f7")
 			(effects
@@ -13139,7 +13139,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C11"
-			(at 2.6 0 270)
+			(at 2.6 0 -90)
 			(layer "F.SilkS")
 			(uuid "aa912540-25d5-4317-986a-ab690099f577")
 			(effects
@@ -13150,7 +13150,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0a3941d3-1bf4-4eb7-81c0-357b327d8b89")
@@ -13303,7 +13303,7 @@
 			(uuid "bd2b286d-8d2d-44fe-a3af-f6be0faf9734")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "758767bf-8a78-411f-944d-d5cd21f8e960")
 			(effects
@@ -13350,7 +13350,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
-			(at 0 -1.2 270)
+			(at 0 -1.2 -90)
 			(layer "F.SilkS")
 			(uuid "38599baa-350a-4619-a585-5dba2aeee25b")
 			(effects
@@ -13361,7 +13361,7 @@
 			)
 		)
 		(property "Value" "2,4kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7ed4ccfe-f84f-4c2b-b3c2-a39b7dc46a2e")
@@ -13514,7 +13514,7 @@
 			(uuid "19e86148-8c03-44fc-8b6b-6197df2acfa2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "95e9b1d7-abe3-4ed6-941d-06b939688ebe")
 			(effects
@@ -15219,7 +15219,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at -2.7 0 270)
+			(at -2.7 0 -90)
 			(layer "F.SilkS")
 			(uuid "dd9a9b1a-f2f6-4c14-9892-c83dbed21a35")
 			(effects
@@ -15230,7 +15230,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 0 1.68 270)
+			(at 0 1.68 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "443f29b0-eb79-4c59-812d-4c98ae168a15")
@@ -15383,7 +15383,7 @@
 			(uuid "3820df1f-53d7-4629-a8d6-f7f53738935a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "74b5f24a-6019-45e3-aec7-9d58130b4f57")
 			(effects
@@ -15641,7 +15641,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R25"
-			(at 0.0975 1.3 270)
+			(at 0.0975 1.3 -90)
 			(layer "F.SilkS")
 			(uuid "7b3463ab-4bcc-43da-a441-1848e17e5431")
 			(effects
@@ -15652,7 +15652,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "71b22940-19ee-4458-a392-4c00c87d63b0")
@@ -15805,7 +15805,7 @@
 			(uuid "e6032e4d-54ea-4fca-9fbc-bc235fe50f90")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "872e2a6a-7a31-4c0c-81e5-421b5d9f0c54")
 			(effects
@@ -16209,7 +16209,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "F.SilkS")
 			(uuid "a3556583-5a1d-43a5-a709-79393bb0af44")
 			(effects
@@ -16220,7 +16220,7 @@
 			)
 		)
 		(property "Value" "10kR"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3d00a689-3770-41eb-a1f1-d655395cba01")
@@ -16373,7 +16373,7 @@
 			(uuid "8b25f5a5-bf4b-4e43-b4e9-643623816821")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "5d601eca-faee-4ce2-9c02-501dcc8902f3")
 			(effects
@@ -25491,19 +25491,297 @@
 		)
 	)
 	(group ""
-		(uuid "63443804-0e18-4c8b-89fe-eac2e71d33fc")
-		(members "0eebc79a-906a-487e-afb5-6485c5ac1b6f" "12eefc9c-0b4e-4d90-b959-e8df17809eb7"
-			"2398aa93-3860-4296-9086-65719a62b86c" "2c30bc03-5763-4be1-b264-3cdb7899c9e7"
-			"4550125b-a00f-46b9-bc17-8ff13f147b10" "54c3581d-f3ca-4d97-a9dc-205007cd4de8"
-			"77069c85-5246-4b77-9bcd-ef51bfe7c2b1" "7e53cbaf-04ff-4e17-8e99-913e47e7e5c6"
-			"dd1623c0-0c67-4ad2-8ccd-c160f876ac3d" "e2346241-dd19-48f6-9b96-d069f6821c8d"
-			"fe73c300-b293-45a0-9782-936d30e3f9b2" "ff4e42ed-a98e-456c-8165-b0bec4bee477"
-		)
-	)
-	(group ""
-		(uuid "1b6e76bd-8d9b-4072-af34-2a9ff5d88ecd")
-		(members "598441d5-ea92-424f-ad69-9359b651625d" "63443804-0e18-4c8b-89fe-eac2e71d33fc"
-			"a545fcc7-dfd6-4e6e-81ab-a6482d4aadd4"
+		(uuid "f06f4ef2-4153-406e-9be1-2a3b09437137")
+		(members "00da3695-ce08-4670-bd5d-b47f3f2497b1" "017effc9-5a8d-419c-9eb8-5f45f9c22786"
+			"01ec6efb-0888-441d-b815-b9ad1ea0bd77" "01f7a246-3222-465d-9350-00e4375cae13"
+			"027ac980-1ec3-4e7c-b138-8d243e4a0f01" "02c56fda-9240-42fd-81fa-3bcfdfb517e8"
+			"030048df-d24a-4fac-90b3-f3a59aabfe16" "0379295f-a5d3-4d7f-a115-a686a541c97e"
+			"048ad4b7-a34a-4ef5-9ce0-3cce2ea623f2" "04a14409-f5d7-4f69-aca5-66d081cad5fe"
+			"04d4e5ec-ed33-4227-9ebc-4a4888db045c" "05edd166-8dcc-4ed6-92b2-5bcbd997fa48"
+			"065500ff-9456-4bbf-9f1f-beb87da78628" "06c4704d-1c80-4a20-8433-df7fc98df1c7"
+			"06e6d694-08a8-4f5a-a509-97b0f5c4462a" "07350489-c731-4a89-ab9f-c777d42b9063"
+			"07dcc59c-df52-4d33-a775-262d6dea32de" "07ed6d04-a562-4527-9fcc-b0fa14bfca99"
+			"08cde2a6-7ce9-4236-bf22-f8a7138849d2" "09c53347-9e44-42cd-a365-117dc80663f0"
+			"09d8888b-29f2-4577-9ad6-4796cb7f1830" "0adebb7e-25ab-4116-8782-139eaaa91536"
+			"0bad7b35-f249-44aa-8bf5-5261a07cb4ea" "0c295bba-dcaf-47b4-9658-26cc1b20f296"
+			"0d06b6db-fde7-43b5-a4a6-2e225dc399ad" "0d123c86-9b9c-40fa-b66a-e4284848047b"
+			"0d82d676-5cc8-40a3-94c1-753d1f792d87" "0d965682-1d2f-4244-a861-2df8fec5b1e1"
+			"0de1e864-34c4-4e96-b3f4-5fb47b783b25" "0de45033-4bdf-4cf0-b20a-9fe04ce05209"
+			"0e2b8679-7b1e-4866-b3e3-e0264e358b0d" "0e5b6087-7b6e-44a8-acf0-2add9ec1fb54"
+			"0ee15683-b93c-44f6-ae13-f01483199328" "0ee77994-d5be-489a-b05b-249dac501a2b"
+			"0eebc79a-906a-487e-afb5-6485c5ac1b6f" "0fc6e237-642a-40af-9fe2-ff667ec0836a"
+			"10050623-62f9-47b2-9360-fd7e0a71b78f" "1028613f-0153-4557-b897-c8e14766fceb"
+			"109270f9-f28e-4c61-b75b-7875a3f3daea" "111de3c1-4fea-4c38-82d8-898c3c997841"
+			"11c2904a-4124-4165-a8ad-ae3131b9b2f2" "12d7759f-37e9-47b6-b914-e94ccc274e70"
+			"12eefc9c-0b4e-4d90-b959-e8df17809eb7" "133f4e2b-253e-4699-8172-2e9cbf936271"
+			"1408a9b4-33ee-4b4a-80bc-976eaace8546" "145e3ea9-26d6-4f37-8bc6-c7b821ac279c"
+			"149e2d7e-94dd-4455-95ee-bf7c2f5636d2" "14e95f16-8a10-426c-b0c1-5c7a9050fb60"
+			"157a77ad-8d39-4db7-916e-790ea5871237" "173b4871-57a9-45f7-9b17-acb8e718cdaf"
+			"17927196-96bb-49aa-9b9f-5a1752757345" "17e16f58-e73e-45aa-8356-2e0ccac13be0"
+			"18099b1c-fc57-402c-84dc-99d69d3cee7c" "19091d27-9997-4141-b0ba-db1629f76b1e"
+			"19ab390e-f791-45ae-8de7-11624c127592" "19be4966-223b-407b-bc72-c334db2e3200"
+			"19cf3e13-917d-4b99-b4e5-8c5a05ee6eee" "19e3ee7f-4bcb-425c-a155-d4fbdea659e1"
+			"1af3bcff-8679-483c-bb34-b3eb4c14aeb7" "1b2b8380-a778-4816-8c64-75ff982915ba"
+			"1be2f6f6-1f6a-47c1-98c4-f51511774b7c" "1c17fa92-3308-4fdf-b1e3-4158d2ba8e27"
+			"1c1fce16-9dba-48ef-9e33-7e24099533a7" "1c5e77a3-53a7-4ed8-83fb-cc26dc1eb99e"
+			"1d27760c-012c-4807-b2bd-54a8e23b41dc" "1d37ef77-7a61-427a-829a-00960c882e6d"
+			"1de908e2-c524-44d3-8b3f-6c9a087546de" "1e8bd7d1-7ba1-47b8-967b-adf02e0f4407"
+			"1f3c360e-fe8a-4aac-9477-3984c728c9b6" "20286149-ab2d-44ca-91fc-db6d6a2c2dd9"
+			"206e42de-7754-4166-a831-9297351581e7" "2173cdf8-9270-4031-93c5-6d18a1b9334a"
+			"22212593-6442-468b-ba4e-df0582a08352" "223cabe4-5d7d-4d67-bd61-76a809efb4e1"
+			"2325c5e7-4ef0-4dea-95a0-07e836b43d44" "2398aa93-3860-4296-9086-65719a62b86c"
+			"241fb860-27a4-4489-b97e-5fb119c2bc61" "2473f047-c6a3-4d5d-b0a3-eddb9ef957ba"
+			"248d1a50-091a-4af6-89ee-9a5f2f5859a3" "251f8228-5af3-48c1-a2ab-a3ca9bf7e4bd"
+			"25be3f00-5a29-4e74-8f5a-1161a86ffe7a" "261a7987-6a2e-4100-86d2-b076041dc0e0"
+			"265142ed-6c60-4503-b4db-2ef635bcf6f0" "266423fe-fa4d-4739-bc79-31d138a794cb"
+			"26be37ad-9e61-45ab-ab7b-02b6fe93ca1e" "26d5d22e-ca1b-4525-8e81-0424b629fb37"
+			"270a1ef0-856f-4ba9-8ed0-ec124ce539f0" "272807dc-3221-448e-a7f9-59746d9a92f1"
+			"27f532e7-3909-4ddc-a4a8-f7132175e998" "28368f36-abc9-46ac-995e-7b180db84104"
+			"28894a7d-c109-4984-a1eb-76fe6c2d3c12" "29be93e6-3b36-4a7e-ada7-85dbf9a75852"
+			"29f150f0-52a0-4f2a-bc78-15fec13f3044" "29fa6d6f-5cac-4dd9-b78e-ed579b830ed3"
+			"29fd73ab-1f4b-4bb0-bd30-88b96a7ab2fa" "2a64d539-1994-4790-a27f-72c180df3c46"
+			"2b219f54-2132-44d0-8738-a9c33e424599" "2b659a1f-28fd-41e8-986a-69e8db13e524"
+			"2b7aae37-2938-4af6-bf1e-343f7ba8d309" "2c0ba530-45ae-426f-8a8c-4c7b93678159"
+			"2c30bc03-5763-4be1-b264-3cdb7899c9e7" "2ca1f88f-8364-42af-b9c2-9e37bc281cec"
+			"2dad23a5-a96a-43c0-a6d0-9cf0a63014e9" "2e042c63-0cfd-4d01-8dc3-e4b8daf2f348"
+			"2ea146db-b4e0-475e-a165-c5088b8d7f01" "2ef970d4-d1b6-4590-9904-0ef3dc54245c"
+			"30508c16-bff6-441d-aca7-cff2cf60605f" "309fc857-6277-4ada-857a-6421a2f2d5cd"
+			"30bd65ac-1aef-4c8e-bafc-0312aa8cde6d" "32400080-528b-4fe1-8cc8-0bcb097f191e"
+			"3288549f-d579-4307-82cf-986207a0c786" "332469e7-2d83-41c8-a24b-562147c88b00"
+			"3363a5b4-9bbe-42fb-810b-e68cf6ce1149" "336daa4a-4280-441d-a4a5-e7877aa74deb"
+			"33749fbd-203f-4899-9a04-0d95a0da2a91" "339eaa59-64bd-4c5d-8b50-27f96b2e910c"
+			"33d13bd3-b435-4bb0-b2f9-1ccd637b5ecc" "35274245-b4a2-480f-895b-9d2079269a13"
+			"35b91a26-a0b1-434d-95ab-af4be2abba3b" "36392473-2576-4925-b691-a815fbe23f92"
+			"367d6332-3338-4e94-9c1d-95fbc9b03d7c" "3681d01e-d483-4b7f-b1f6-ac0683e1c917"
+			"36c44f23-8682-4b4c-ad2c-d9386f84bf2e" "36cb3eda-faaf-42c1-b4e7-29033c640469"
+			"37863c63-0ad1-48e9-ac90-3db4a6e08cc4" "37c85129-d49f-47ca-98a8-b775903bce02"
+			"38318f0a-69a5-4465-bcdc-17870fa6ccf4" "384bb4c7-2d27-4f24-8841-110aa16b4065"
+			"3873306b-644f-4bad-a3d6-8c0eceb0286f" "38b91c85-01a0-4364-b912-022abb2f7d1d"
+			"39a56def-de35-4eed-8052-597b6b67fff9" "39c420db-4ebe-47b0-bd91-4944c3bcb633"
+			"3a3d233a-aea0-40ca-8413-15edeaee961f" "3a4899e9-f729-4f78-bfae-29ae4465d53c"
+			"3b4bc70a-7aa9-4114-b392-3803ae8ffa9a" "3ba55fc7-4e27-4a45-94fd-05b7fecc352f"
+			"3baaad96-2686-4583-a26c-4b2075a7497d" "3bfa6f0b-52c3-4bfa-9e30-20ee0d9746aa"
+			"3cba082a-4caa-41bf-9039-f5510242007f" "3cff1f8e-68dd-4822-97b9-ef08aabe7ec0"
+			"3d8a380f-5d3b-4981-982b-59a11f11b20d" "3dccd361-17c1-42be-8f02-064914599192"
+			"3e98947e-c900-4129-ab80-1c8890958f88" "40877432-a371-40d9-adcc-88245f00b920"
+			"41514eb3-e471-4214-b61c-38dd7644ded3" "4176a4c3-728d-4793-91f2-8f211e2c1e9a"
+			"419f0ee9-7999-4bd3-8072-911b3e79d530" "41ef8624-3cd8-4e36-8c4a-6c64dab12161"
+			"42ee4f5f-3112-41e6-a25b-a34affb05338" "4339fa05-fad7-4713-921c-47bf1ca2f5bc"
+			"43c0665a-a788-46ea-8d99-d49584de4ceb" "43db3d25-3198-40bd-ad86-34e02a08339b"
+			"43e2d74c-7b61-4535-80f5-86996f9cd86b" "448f4fcc-9c87-4593-a94f-fb01646233b8"
+			"44d629c5-f766-449d-98ce-198143be26c7" "44d83320-39d5-4d8d-a258-9dd51ff92cd1"
+			"4550125b-a00f-46b9-bc17-8ff13f147b10" "456d0903-bc46-4849-93af-ba5da29c3693"
+			"469842ed-e932-4c49-a6b3-f77702bbc4b7" "46e49446-a714-47e0-9c01-9ff1543d6cb1"
+			"47224339-87c5-4d26-adeb-4fb6f51412f1" "4771b79c-43fb-40b0-b516-eb52146956f2"
+			"47959021-e4d0-474e-89f4-f78fb9a1def5" "47a0ef0d-b2ee-4158-ad00-94ed0172c9ba"
+			"47d55124-b973-4703-8486-fd1020a30a28" "483c493f-8c70-4456-8643-300719b05193"
+			"488fbf64-55f7-44df-af45-e9533f50a1fc" "489cf31b-f828-4a6e-906b-4d754e82ce59"
+			"494c565c-b309-4334-aa1b-556338e37a05" "4b2b9e55-c2ab-43e4-afb6-574e0e2022b2"
+			"4b4a5181-d5c3-4594-82fd-b45bd5eb864e" "4b87a113-1cef-451f-ae09-1cb73b56488c"
+			"4b9a32b5-acfe-4f02-93a4-d3df92a63f48" "4bed985c-7d94-491c-a0b0-949b70383981"
+			"4c0f9206-b031-4da9-bda2-6f6eedf26cd2" "4ce28978-e1ef-4b62-bf40-e9bb5ec27f36"
+			"4e404aa0-d372-4284-a90f-91138b62d023" "4e5d854d-d879-4c67-b51e-c9995c27fe7c"
+			"4e8ab7ff-bd23-466f-8bea-393e29cd7989" "4ec760c7-c5f3-4c9f-8bcd-3c6c30134a21"
+			"4eceb4fb-a763-4b43-9161-d627eb775943" "4ef80430-0fec-404a-826b-71f625e87425"
+			"4f906afa-4556-4b64-b4fd-5a1d04169552" "4fe42f92-326c-40d3-bce1-936dbee689af"
+			"5021b2af-f562-4332-80b4-7077893ea766" "5219854f-c6ce-4607-8923-25655cc12428"
+			"52fee0f0-fba6-4140-838f-2a1ea8eeec41" "54c3581d-f3ca-4d97-a9dc-205007cd4de8"
+			"5551490b-d281-4013-a87b-5b8d981140d4" "558133e1-0b3b-4c59-9dd5-c32e4fa6f34b"
+			"55853d79-9dc7-4afb-8dec-86aa70028665" "57384c8b-d1de-4b2e-9eec-280a22d576be"
+			"5747dcf5-6550-4948-a25a-ce5a48554343" "57c617c3-aa33-494a-ada6-17fea9ebee34"
+			"5822fe02-21d6-499f-815d-ec6bcbba54b1" "5a940c51-0ffc-46b7-9124-160a5b0dfa94"
+			"5a97f28d-21af-4fa7-9a63-590cbc644a87" "5c29b0c6-dc9d-4a48-a1dc-98675b820b77"
+			"5ca20e15-1bbb-4739-9143-e67ba99f181b" "5d1879b6-253d-4aa6-b5ce-ea72d0101c3b"
+			"5d19ceee-ecab-4014-92e5-c9a176b42d13" "5dd2a941-226f-4edc-a74a-b9eaeba70b3a"
+			"5eb45881-edb2-4d7f-8b38-ad0c9bd7a36e" "5f2b5393-8ccc-43ff-a56d-319388d1dd58"
+			"5f9d8310-cce3-4bcd-a5a1-3761db8e4df2" "5fa54574-731f-411c-98c6-9b46b9035fe5"
+			"5fb0ca1e-1a15-43f0-97c3-9e28ca4fe818" "6015949d-69ba-4cbf-951c-a6748a6dafbc"
+			"605c7e4d-6344-4663-b414-fc852252765e" "60d20e58-bcc3-4713-a94f-cba9f91ff985"
+			"611346fb-f6e9-4c57-8bc9-ea29772554a1" "61a775fa-a1df-4825-b7be-ea4b455cd725"
+			"61cba95d-05d9-41b5-a36f-efa0db5b78da" "628aad42-0faa-4837-bcf8-82fd1eb60f9a"
+			"62954996-3afe-49b2-b0eb-1f0c004b5141" "629a32ed-8859-4254-ab46-ce89feea3a41"
+			"62be9450-da5e-4f30-9eb5-8e43f20a0f2a" "62f545ae-a7b5-4ea5-884e-8383a0e1a9b9"
+			"63266fdb-39de-4b64-b6f9-80939e03291b" "63957a0b-4e08-4eab-8f2e-2a498d642044"
+			"63bc643a-28c5-46ca-aac7-0055e6c3456b" "63bd07e9-674e-4a8c-9ed8-519113f4666e"
+			"65a88a2e-5891-4d3a-8f33-ec86e4eb2f95" "65e44fdc-d6b6-470b-aed0-f7fdb9fe3e95"
+			"6669c847-2d85-4d03-bee8-d532f6b6377e" "666d8276-6d7a-42c6-ab89-edf6652a3210"
+			"67ea5368-7d76-4ea6-b5c1-e75fe5d9f18f" "67f83e09-e907-4539-8303-fca975abf003"
+			"68af7bd8-2124-4386-ab3b-bba7240795de" "68bf1bdd-cde0-4869-baff-2101afca135d"
+			"6a52261b-0229-481a-83d2-bea94feddc8b" "6ada0405-8314-4ee4-acb9-a345363c6797"
+			"6b289c22-2ad5-4774-a95b-4923cc051513" "6b7dcfcf-2068-49b9-9bbc-cf0ffa075355"
+			"6b92501d-824c-47de-be18-2604b9bf31d3" "6bbc3b2e-9f21-42fa-886b-7de83169e91e"
+			"6bd3c2a4-a54d-4e03-8d89-fdf3608e38f0" "6c3e0acb-e8b4-46d8-957a-72a7588c309b"
+			"6c602031-7b3c-4379-8a54-7bc810e3f366" "6cee6ffd-64fb-42d7-b1e7-92e4869224f7"
+			"6d378a9a-8676-48c4-b1f7-0e1df6974c11" "6ee044af-1a03-4f4d-a70c-59108c3eea29"
+			"6ee5a68d-4602-4533-9467-04fd2d35c8c5" "6ef7fc63-432e-4886-95bf-9b1336f7b2f2"
+			"6f334f4b-c6d9-40cb-ba2b-731aea5da4d7" "6f42dbb9-6872-43f5-ae13-791e1ff1c927"
+			"6fb2827b-748f-42bc-b536-00943220acbb" "6fb41a83-e8d7-4c6c-8973-518dc406d564"
+			"702fb8b3-798b-4381-9a22-d464578d66a6" "7087e0de-01f3-495c-b15e-90adfe75435c"
+			"70e0e71b-efe0-4321-aeca-e8c45a8c92aa" "71589207-e7e0-440e-aac7-2ee710c5b917"
+			"721a26ab-c01c-4432-87b1-c8d15c47870f" "72fdab70-692a-459c-b528-debe31bf9a37"
+			"730d753b-b40d-4f20-aaa0-fd46496a2842" "7394d9a0-c661-446d-9ce1-6e24ebb518ac"
+			"746b6fa6-c253-4964-be57-673c53c580ed" "74713d6c-8502-4c6c-83af-9ea05e57bbed"
+			"74e8ad83-d5c6-41d6-ba8e-c2bed3eef01a" "7586ca88-ca6e-4e24-98c0-67257982dce2"
+			"75f3d3c9-edce-4231-aae2-5f3e1a1dc071" "760ee1ed-91cc-4f99-838e-2018a5b98b33"
+			"76b261f7-ee86-4f26-b902-b0a41e5e7f34" "76c2a475-fdb5-4a60-aedb-783b57881d1f"
+			"77069c85-5246-4b77-9bcd-ef51bfe7c2b1" "7734a624-bcf6-4eb5-a469-0e5154c96b54"
+			"77993df9-d8ca-41bd-b60c-dfe31a595383" "77d09ec9-d61f-46d3-9e37-52adbaf2aa69"
+			"78d94850-2480-4bfb-bdc4-8136254fdd79" "78e76187-7f89-4e5e-b392-7c2786148ac2"
+			"790881d4-2dec-47f0-ade1-f9184cd3bd19" "794dbc4e-dd12-42e7-a0dc-7b707d9ecbe6"
+			"795cea1e-3a88-41ff-88cd-dd034d541c74" "79e03a59-8167-46b2-b2f9-9694e7af9e3b"
+			"7a377987-fd93-40ce-b5f4-81e75f096517" "7a60e722-e681-4530-bffd-508068a96bf6"
+			"7a8b297c-0dbe-498c-87fe-6a4ab80a3bdb" "7ae5ed0a-56b4-4edd-8c03-375b8493f01a"
+			"7c540e19-2156-487d-9fa5-f00235657030" "7cacf10c-b833-4920-ac48-797e6bccf999"
+			"7ce7f0b0-2cd6-4c85-9ff0-616560624af3" "7d17db37-0cba-46f1-84dd-2cd233c9921e"
+			"7e4adb06-f4dd-423e-b698-4c64c395150d" "7e53cbaf-04ff-4e17-8e99-913e47e7e5c6"
+			"7e6f9d58-9133-42da-891e-ef16098bde82" "7e715d83-7cc9-42fc-9160-09a7b9b4ef0f"
+			"80964eef-90ea-462c-b5b2-fb8a71affeab" "83a4aef0-58ef-4777-8616-00dd01554744"
+			"842326d7-5b4a-43b4-a079-219b96f46c44" "846d1175-8faf-4a6d-8be3-c12c13dc0635"
+			"84fa8860-f9b2-4399-bfbb-ad3aa4c49d9b" "85055c90-d44f-49f6-91f3-35463c57ade7"
+			"85617bd4-4c6d-4886-b25f-f31cf26c0344" "85c46ccd-1a3f-430b-a60f-d650b4ae8793"
+			"85e7a987-efed-487f-a9f3-16d73515dc57" "864ad3c5-4b6c-4039-9026-2bb71f6a42e1"
+			"86833709-71fd-4274-9174-9f1ed30c189b" "86941d66-22b7-4f86-8a9e-8dc237855e00"
+			"883252f6-8961-4220-bdfd-d454d40045d0" "88f990cb-835f-4016-bddd-95cdac3a2707"
+			"89b33e63-07fc-4d57-ab38-e58a84f03294" "89c259b0-44d7-4b47-be19-77f7c0da3eef"
+			"8abf84ef-a21f-4800-9a2c-5ef97846eece" "8ada5b2e-5cdf-412d-a240-892012804e8b"
+			"8b541df9-6b07-4575-8e4b-7e6120046ad4" "8b54f0cd-4e5e-4902-8672-6c3ef03f95c2"
+			"8b69e5b5-b020-43cf-a4be-c5494bea2832" "8ce3b41d-87b8-4849-a827-97331f2c8d57"
+			"8d80d6ad-d384-4764-be27-8e7bf05c15ef" "8d83925d-2f3b-4884-823c-63f93d191c10"
+			"8ebc473e-638b-442d-b4e9-6f75389ce56b" "8ee538eb-0057-42fd-93f1-8c9d712c8c6b"
+			"8fa4b16c-d182-4f4f-a012-711fd5c3722a" "8fd744e4-590a-4f5b-ae24-9a3f15e917c0"
+			"910ba505-099b-4dc8-82a0-4569d1eb7801" "915019f2-347a-422b-9c7c-f4e61eb86567"
+			"916e24e2-47cb-4555-838b-0855673be5bb" "919dc653-96d7-4746-8809-a52f67b8da92"
+			"9283b050-6ccd-4bfc-add6-c695b9607eb2" "936f4028-506b-4bbc-8c88-6bdab3dcaa7b"
+			"93b98ed0-0c81-40c7-a497-7f5704457e98" "93c3a4a5-82c4-4122-93ae-0fed6b2d8870"
+			"940ace69-432b-4e7f-b115-5f4288b034eb" "943e2e7e-5391-4aaf-b9f0-b38cdac0649d"
+			"94766a7f-b22e-4635-8eb4-50b0a84cb475" "9521b6bc-2e0b-4166-aacc-b6a3d4ec5463"
+			"967acbd4-46fa-4dc8-92e2-33c793680388" "968ea4f8-a15c-4412-a6f0-be1199a315d4"
+			"96fe11a1-05ae-4e92-bc8b-8eea1736ad9b" "977447d7-1204-4b08-a5b9-ca2fe499a490"
+			"983a91d2-b505-4446-a5d4-986960e8be21" "98a5f886-c244-4f61-aeda-f2732d2200ad"
+			"99832c12-aea6-4e0e-b4c5-c109a76d13cf" "99d9b038-8ca8-49f3-a6ac-18d666d98f2a"
+			"99e22267-6df3-47c2-877f-54c187afe309" "9b093a33-bd66-4db3-9b97-ec61cf768f11"
+			"9b1ea582-50a7-4774-85aa-4f8906b8c29b" "9b969303-663f-41bb-b02d-a3569f0fd79c"
+			"9c26989f-37ed-4662-ba65-530f3f89867c" "9c750ba4-bb1f-4e3b-b05e-801441cd1216"
+			"9c7925b3-360c-4322-a4f4-7a92cb5aee8d" "9cc08e12-f486-4e76-a3b4-76b8fce16b1a"
+			"9cc4f8a2-4b60-4622-aa94-38110f366757" "9d4845e2-e984-4512-94f6-0d0b70733808"
+			"9dc9f5ef-3b62-46ed-9ff6-cba0ab0797cc" "9dcf2c03-a17a-4c70-a517-61f26d0331dc"
+			"9e5dbba2-1eef-4f0f-a3f3-9d23585a4ad5" "9fe70a36-9008-4457-a402-2db769855273"
+			"a0117919-170b-493a-99f8-d9d14700a696" "a028dbd2-7872-46e6-adf3-76ce6b2ed013"
+			"a0d295f0-cb53-4343-81f2-58517015a775" "a1085eac-c343-4ab9-9bef-acb2201da3bb"
+			"a47a7173-2e49-4f98-b588-5fee625ed2bf" "a49b34f1-375f-4aea-bd12-2c3ceeb533d5"
+			"a4a20f1b-f9ff-41c0-ba68-d464a6e7185f" "a50bcbb0-4a20-4549-8111-29098150e591"
+			"a54e03c8-b6dd-463c-a6a3-3cf1d5b745db" "a5f4057a-1f95-4d1f-b0f7-2d45b5d41eb7"
+			"a7f84003-fc8c-4ef8-b854-852c2daa8172" "a8a327ad-347c-49bd-b39a-b1eb8af7eea7"
+			"a8c013d7-b1e2-45b9-9704-07ae9c5fe865" "a8c7493f-668d-4200-939b-d2bb87694b6a"
+			"a92f8b82-f954-4b95-8c24-2fe760f7a660" "a9497ca8-38c9-4d89-8abb-5a134e0ec872"
+			"a98f8475-29c0-47b0-a272-eeb5b202d4df" "a9e529a2-836a-4c88-aa15-a414fc789ae7"
+			"aa53dfc6-9dca-4573-86ba-45c422281271" "ab31bab2-5b11-4a6f-9ce5-1a2e94861095"
+			"ad3a8a8f-3c22-4c7a-a761-f83253d8177f" "ad62c4e1-de5c-4300-beb3-f7d436dc1861"
+			"ae00b22c-3fb9-4aa7-bb42-cac54719d00a" "ae3de778-ea4f-47a2-8c2a-cf7cd89b6940"
+			"aeb1f7c0-458a-4aee-8c26-43afc6274971" "aecda37b-a196-4c31-97d7-f07e3d939a5b"
+			"afd46fc0-3206-41aa-8b3c-1f19da824573" "b0974180-0fbb-45b3-a68f-fafe59f1c31c"
+			"b0c15752-b61e-4bc9-b8e0-9650d2434b17" "b0ec185f-f9c1-434b-bba0-ba75132a775e"
+			"b1226135-739e-4c0c-9f8c-ab9d0e2db281" "b1391f26-384c-4682-a508-4fd4c3b21244"
+			"b1972b65-d2da-466b-b645-539b84628e1f" "b2419d60-ce68-46c7-81d0-83983dfa53a7"
+			"b2566c3e-71cd-454a-bce4-c27d8450097e" "b2d4c3a3-3e7c-43aa-aa65-6f97ad5d4315"
+			"b348930a-167e-4911-bb51-7588903b5f1d" "b4f70e25-cf65-4264-b17d-18071488ed80"
+			"b5928bc7-de94-4fe0-88e1-f003b4abc956" "b6aabd7c-8d1a-44a4-b7bb-7f0121220a0e"
+			"b7880ed0-cebb-4f3e-ae26-b3af5c30ae75" "b7940268-611d-4682-9d6d-4ded3e465130"
+			"b7b7ce74-d67b-4d80-bc98-2ff34fb9cb56" "b7e00973-e177-4bfe-8eea-2315fdfab9bd"
+			"b865f7db-bc36-4c94-98c9-17a0591d5858" "b89bf3bd-f354-4644-861a-c9ef17cc1e46"
+			"b90b2d80-570d-428e-9db8-291c16544d7a" "b94b7e35-c910-40a1-bbab-75330bc9b206"
+			"ba7f31c7-f3fb-4bcf-b251-6e856e989277" "bb2c5703-e70a-47c9-bd53-3bcdc703308d"
+			"bb4f43d0-1431-4601-a470-72089bc8aa4f" "bc01f7f4-e3fa-418c-a2f2-908ae5d22a0c"
+			"bc039ad7-7c66-4c59-8038-62052371d71e" "bc69a8d4-0eda-4e93-847e-b80f90ba8f97"
+			"bc9ce14e-7864-41c9-82b3-b521e2408940" "be95f11f-0fe3-458e-9c3e-c31c628ebfb7"
+			"bea2c5db-76e0-42b4-9829-139f5710bce8" "bea75753-628c-4d31-a6f4-3b7233a9176a"
+			"bee3e92f-54e6-413c-aa6f-9b505958be02" "bf71faab-4d90-4a9d-aece-cae9cc34b0c4"
+			"bf9a8ef3-8f3c-4c67-a506-ca538ca06b37" "bfec82d5-5717-4e69-8c99-3089b6460ee0"
+			"c029bd73-7431-4352-a9ca-48a2f9d9d973" "c08f669a-e919-46cb-920b-663d328ebd4f"
+			"c10b77a2-34c0-4313-801a-1e5496e25728" "c1cb2172-4afa-4102-b2d6-3ddb2215114b"
+			"c245e0a6-8a39-4824-b9c2-61745099a0b7" "c31d83d7-fe9d-47e0-bb33-5e375a19257d"
+			"c3293463-2cdd-47a8-8130-d1becdb8cb37" "c3fd9859-07a8-44a0-b417-a446b15f8b9e"
+			"c4b9697e-3f78-4f21-a7c3-f7d24453081e" "c4c0cc1a-2620-43fd-baf2-c55fdecbb41c"
+			"c4d09352-fa68-46cb-96db-172df6ab24ab" "c59544cf-ab22-489b-91f6-c8a20041431b"
+			"c6e85358-a302-4e2c-9846-7ae48ab8ea0b" "c7485047-f40f-4db3-ac9f-cd46567fd400"
+			"c75f08f9-8683-438d-819e-023389986557" "c78f9dbe-51b0-4051-8168-21ed998b6497"
+			"c81a4ae4-7b98-46eb-b189-d8a2ef3891ac" "c922177f-78e1-47ce-a1bc-3c5c6329c8fc"
+			"c94fb85e-f303-427c-980b-b63828131d89" "c9526a59-13d4-4ef7-921b-e6f7ac36d427"
+			"c9894651-b5a4-4eae-9e2a-4cf395c1102f" "c9a2ee64-91cf-425e-a6af-4390f0196064"
+			"c9a99302-2215-4a85-835b-3d4fde79d26a" "c9bb7b9c-b2f5-4788-bc5a-33ebf12d6997"
+			"ca791747-590d-4832-a5ec-13ef5b9bd67d" "cabb2893-53ae-4d04-bc83-38f57f0c5433"
+			"cad1a055-e60f-4493-b707-b95c723cfd0e" "caf28c5c-fc24-4263-b6b0-6656022ed0fb"
+			"cb0c056b-5f6a-491b-9e49-d11221ecfe64" "cbb02e54-5935-4632-b9eb-308c4271f439"
+			"cc44e52d-3be8-4219-803a-fcd67a327267" "cc83e106-ef59-418a-8d5a-a4761152f611"
+			"cd4b15c7-33a0-47ce-b094-814aff69b14d" "cd5f27ac-9168-4305-a186-c46e396711de"
+			"ce80f149-61a2-4bf0-b541-ef8dff0fcd82" "ce8cf92c-ff05-4dce-a665-a5b9916f58d4"
+			"cf112817-6c0c-4135-92f7-130488a62643" "cf33b4c2-00f1-4075-9ffe-ac14f765f44d"
+			"cfb9cede-67e1-4662-8e12-774733eac798" "d07d3ef5-0710-4e06-b342-767d65290eb3"
+			"d26b348f-71a3-4545-b5bc-c17fff72330b" "d4ea6333-009b-40dc-8367-48b53cd4428b"
+			"d50b978f-3cf9-46d9-9283-f0a8d7e68e93" "d59f5ebc-8808-46bc-a017-653ec2d39364"
+			"d5ae243a-3394-45cb-aa28-52ace36e23da" "d5cc9dda-863f-4157-bcc0-5b032617e403"
+			"d61f8317-bdbe-402a-923b-88be9938fb59" "d64661a1-9805-4fbe-add0-4c141c1d260b"
+			"d6a0aeea-a108-48af-9363-d66723c1c305" "d6d988e6-3784-4f62-8b95-97ab079a1b9a"
+			"d7df6607-2c37-4328-867e-79806235a61e" "d7e00942-f455-42ea-8023-3183276816cb"
+			"d859644c-f46c-4a00-8da4-1256488ea1df" "d86a5866-d832-40c8-abdb-627391338cd4"
+			"d95dbed5-94ec-4090-aa85-739bcf147dd5" "da1cde43-5d6f-4e4b-8ced-a2cf8a3e08ef"
+			"da92a726-eee1-437e-b2c6-7accec7dd8c8" "daf1a58d-e698-43e5-9ec7-97e5b7a63664"
+			"db52dae6-de8d-43a2-989b-15437846c047" "db8dbb79-80a3-47df-992a-b355c467e282"
+			"dbde0263-b80e-46dc-806b-c8c3cd9ad245" "dc0b85dc-2d17-4589-8b3e-bb0ac4baad1d"
+			"dc4a3b1e-d76b-42fe-971e-9f0ff5087d8e" "dcfc7925-250d-4aac-ad50-31e51676829c"
+			"dd1623c0-0c67-4ad2-8ccd-c160f876ac3d" "dd1902d1-5da0-443c-95f3-39c1699862d5"
+			"ddc72e52-8ca0-432d-9b38-e1c8661b6340" "de472b10-1189-40d3-a3b8-dcc268f2009a"
+			"de50ad37-07ee-4288-8ca8-da077c946841" "de9a1141-7062-413a-b77c-1fcc506828fe"
+			"df076eed-5a74-4089-8a2a-50d315ebf32e" "df2fce10-0035-4e0b-b102-097106a1d086"
+			"dffd15a5-8c8b-49c9-9662-f89cc96d3f2f" "e06c4dee-4dfe-4578-b452-e8f580adb935"
+			"e06f445e-18ae-4299-8f3b-1417b2a664fa" "e073ae1f-555a-4f32-b165-9ffc5538e8bd"
+			"e07fa79b-73b0-4549-8f83-fb82dea327ae" "e0850942-a3d7-4192-89a7-b99f138bd550"
+			"e11340da-a0ef-4306-9f60-fc08799ee334" "e1787439-3f60-43cf-9c4a-df4909b7f2cb"
+			"e1828095-b511-4edd-877a-fdabc680ccf8" "e2346241-dd19-48f6-9b96-d069f6821c8d"
+			"e3b87a2c-fad9-42ae-9a79-d4ffbc84c1ff" "e3dee906-8870-40d5-9f03-0b2d1cd64ab6"
+			"e43ec920-1811-4fda-9f8c-ae080375c75c" "e4811e74-07f5-4ee5-b8c1-cb62f5168cf1"
+			"e49f42aa-bd74-4ab5-9286-f480284fcfe0" "e4a7d464-677e-44b8-8a43-b019bd022f66"
+			"e4ca5125-51cf-4c17-9e60-02225d6bfc7b" "e4efd32a-c98e-4e2c-91e8-e5744d824e30"
+			"e584a9bb-6f86-4c26-b1aa-a20c1685cb85" "e5a62c18-3e36-44f0-912e-a7607ca97ad7"
+			"e60cfa40-7548-4bfa-9240-5b37f14269ad" "e625e260-0fda-4d2a-bb66-7b723213162e"
+			"e69c9d02-a93b-406c-acec-8803e001f6e2" "e6fecfc8-8e38-459a-b11c-f623d7c88bf2"
+			"e73049b4-1790-4af6-b7c4-655522f98333" "e7550bc7-498c-42ad-ab33-bcc1a2de7685"
+			"e80f3733-b775-4a04-9ba5-f6eaf7efd3b3" "e8461c40-2cba-4428-a622-61231b100be9"
+			"e8a43f02-028b-4a97-affe-aa1232729092" "e9186a08-bc7f-451e-be0c-681a37b6f224"
+			"e92bfd43-68df-4138-bd6b-bc8372ea5b87" "e979fb35-e1e6-477f-ad81-404d92624fb8"
+			"e98e0104-0782-4e00-bd12-ad6365a90649" "e9b1cc2f-7655-43cc-9de1-987aba1848be"
+			"e9d7098a-52d0-4e23-b11f-6022005d2967" "ea160e9b-c4ce-45c9-bbb0-17b615dcc830"
+			"ead7c021-beb3-42ce-9544-fe46fbf374cc" "eb720324-6c3c-4c08-97ed-b4f1d32eefa8"
+			"ebbf9ef0-2ec3-4841-97a6-f30853108125" "ebea42f3-f7ca-4cf0-a6d8-75f2b6055e18"
+			"ec30859f-75c0-4a43-b644-ebb45bb45bf2" "ed4066a0-f2d0-4613-a4af-dfc2a8d41551"
+			"ed7aa774-6254-4951-ae8a-56cd2d593590" "ee49efd4-0f77-4ffe-98e3-b46c863721fc"
+			"ef157203-17e2-412d-b26a-928f5d364785" "ef3c1400-f1ed-4c70-ba2d-ef608183ef2d"
+			"f034f742-f46e-4421-8147-086b56a19e19" "f0878d9b-f18e-4d9b-9f3d-c75f8bc9bcf3"
+			"f15266a3-d2ed-4e30-ac7b-f4cb14f8650b" "f194913f-4a20-4d3a-91eb-47154ce1ea05"
+			"f1a552c2-d75d-4086-8844-10bab5b197e5" "f2384a13-8727-4861-b2d4-9394b8f4f3ed"
+			"f2a92068-8d98-43d8-b7eb-9ef9bb369c41" "f3668ccd-d954-44f1-9434-3495b2d76239"
+			"f3f53753-a0e5-40ef-aa9e-2c1633066ad4" "f3f757d1-1d20-4cc7-8d1d-dc4e4eecea16"
+			"f423f91c-cb3b-4d82-9900-8ac43e639831" "f4e59d13-4aef-497f-bd1a-f9792440415d"
+			"f5636b68-a00c-4d31-b7d8-fef392718755" "f5dac220-d36a-4736-86a1-ae42a3734262"
+			"f5fac52a-c612-4a1e-97d8-9b8bb013950b" "f60aa482-71fc-40ea-a634-2f0a1cfdad0e"
+			"f61c8b07-2b7a-410f-8e46-922177dec7e0" "f65de8a5-b10b-4e65-97e2-3b22c2342003"
+			"f7123e54-4c84-4242-984a-e42bb62c6c70" "f746ddd3-7ea0-4b51-aa05-297125cb40a2"
+			"f7470eb0-9870-4234-816a-cc68fb8f9fba" "f76f107e-05f9-4462-be89-14623c8149bb"
+			"f7861e73-0b55-4ce3-bdb3-80115344142a" "f7a2b24a-9396-4f89-996f-68e69237affe"
+			"f7cc5005-f517-4a4a-855b-c191b45eed4c" "f7d151e2-3e02-4806-aa62-933af1c573d6"
+			"f80072cf-7ea4-41f4-81ce-92bd1f8e524d" "f905c56a-f859-4e08-8760-f73212f4889c"
+			"fa05bfef-7cc6-4bc0-b093-36764f64fda7" "fa2fd8d6-cb08-46cb-aaca-50f17570abf7"
+			"fa551e9f-b78b-437a-907a-b50b3e8bb693" "fa849b9d-c5f5-4121-abe9-c24ac8fed431"
+			"fafe4299-654b-458e-81f2-1cb122610d13" "fb7751a3-6e6b-4119-85f8-1b2f03e1161f"
+			"fbaa83df-38bb-4c6a-87b9-fb582b4277eb" "fcd2713e-d784-4342-9607-a0100881b66c"
+			"fd071e72-a56c-4e07-9a3c-d7862cfc85fe" "fd0c9052-890d-4fba-8e2e-98bea1f341ff"
+			"fdabb8a7-5946-45b4-a78f-66b5f0a80e94" "fde43349-c452-4324-8a24-b4a98fda8224"
+			"fe04d415-02f0-4f68-84de-c28a9631c3a1" "fe389685-16c2-42e1-a6cb-365f7776c22a"
+			"fe73c300-b293-45a0-9782-936d30e3f9b2" "fe89be59-c68a-42c1-9c88-d2bca7684bae"
+			"fecded7c-cbf9-4b26-a391-8007eb5572ae" "feedbf72-93d0-40c7-a6b2-0589b066a3fb"
+			"fef78fec-0f63-48e3-a800-d6876f692e45" "ff0f20ab-1c38-44d9-a1cf-fcd4819aee7e"
+			"ff3dd092-0ce2-412f-8e86-f1f4b7f52921" "ff4e42ed-a98e-456c-8165-b0bec4bee477"
+			"ffe7198e-7453-4806-b84d-4e2f9ba08a92" "fff3e9f9-96b3-4146-a20e-ae10dbbddd91"
 		)
 	)
 	(group ""

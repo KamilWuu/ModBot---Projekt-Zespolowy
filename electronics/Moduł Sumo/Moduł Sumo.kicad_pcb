@@ -148,7 +148,7 @@
 		(descr "JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "J1"
-			(at 3.75 -2.8 270)
+			(at 3.75 -2.8 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5706e1fa-918f-4ea8-91cc-663c93a84482")
@@ -160,7 +160,7 @@
 			)
 		)
 		(property "Value" "Input"
-			(at 3.6 -2.9 270)
+			(at 3.6 -2.9 -90)
 			(layer "F.SilkS")
 			(uuid "6bf92954-5c43-423f-8aa7-2f9f475230a0")
 			(effects
@@ -536,7 +536,7 @@
 			)
 		)
 		(property "Value" "RST_M"
-			(at 0 5.31 360)
+			(at 0 5.31 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0cee4613-ffd6-4dc7-b85c-45207a904994")
@@ -1001,7 +1001,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4d39f47e-e016-4a46-bbd5-ec6df6111222")
@@ -1013,7 +1013,7 @@
 			)
 		)
 		(property "Value" "OUT 2"
-			(at 0 9.95 360)
+			(at 0 9.95 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3ad43b2e-2f95-4d42-8093-93739d3423dc")
@@ -1566,7 +1566,7 @@
 		(descr "JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "J7"
-			(at 3.75 -2.8 270)
+			(at 3.75 -2.8 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bcc31cf1-ff01-4342-9ff4-279d4d8488cc")
@@ -1578,7 +1578,7 @@
 			)
 		)
 		(property "Value" "Sense_OUT"
-			(at 3.7 -2.9 270)
+			(at 3.7 -2.9 -90)
 			(layer "F.SilkS")
 			(uuid "30459ac7-e52a-4729-8996-c8f8ec8a2e43")
 			(effects
@@ -2442,7 +2442,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J2"
-			(at 0 -2.33 270)
+			(at 0 -2.33 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "59d5c19c-06f5-49f9-8690-83b0fe3a60a2")
@@ -2454,7 +2454,7 @@
 			)
 		)
 		(property "Value" "OUT 1"
-			(at 0 9.95 270)
+			(at 0 9.95 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c5b94f43-c4fa-4bc2-bf23-290300d977cd")
@@ -2657,7 +2657,7 @@
 			(uuid "7c5ca1e0-f2ee-47b5-bba4-f087041d3e0e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 3.81 360)
+			(at 0 3.81 0)
 			(layer "F.Fab")
 			(uuid "9973b94b-9b34-4821-8fad-7cf24dd74175")
 			(effects
@@ -2730,7 +2730,7 @@
 		(descr "TSSOP, 24 Pin (JEDEC MO-153 Var AD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "TSSOP SO")
 		(property "Reference" "U1"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "f637478f-d098-4c2b-a81a-4f7d6da7dedd")
@@ -2743,7 +2743,7 @@
 			)
 		)
 		(property "Value" "TCA9548APWR"
-			(at 0 -4.85 360)
+			(at 0 -4.85 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea023bcb-3efb-4c59-9ec2-0d26f1b825ad")
@@ -3200,7 +3200,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 2.1 0 270)
+			(at 2.1 0 -90)
 			(layer "B.SilkS")
 			(uuid "0dbbcbff-4e8c-4d90-bf2a-38342032fcc2")
 			(effects
@@ -3212,7 +3212,7 @@
 			)
 		)
 		(property "Value" "2,2kR"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "67fda220-a970-43d5-b79c-1de73a17d47e")
@@ -3369,7 +3369,7 @@
 			(uuid "ba1fd28b-5024-4c7e-ac3d-b5b3e0a8aa4f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "0531fa01-b69b-4125-8ff4-bf0d5198230a")
 			(effects
@@ -3851,7 +3851,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R7"
-			(at 2.0575 -0.0025 270)
+			(at 2.0575 -0.0025 -90)
 			(layer "B.SilkS")
 			(uuid "b5f39c66-5c63-4b8d-91ae-c224104adb23")
 			(effects
@@ -3863,7 +3863,7 @@
 			)
 		)
 		(property "Value" "2,2kR"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a370637b-e85e-4cd5-b386-225bc75a5d54")
@@ -4020,7 +4020,7 @@
 			(uuid "7a63531d-da7d-4768-b488-838a3840f092")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "f03abaed-5b25-4ceb-82b3-7b0b143bef0e")
 			(effects
@@ -4080,7 +4080,7 @@
 			)
 		)
 		(property "Value" "2,2kR"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "47d9b5d9-e965-4cb5-b46e-940d1415f64f")
@@ -4237,7 +4237,7 @@
 			(uuid "5782a875-1f05-468c-a7d5-0c4f8eebeea5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "072153d9-9de1-47cd-8c04-8f8807a5d712")
 			(effects
@@ -4285,7 +4285,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
-			(at 2 -0.0525 270)
+			(at 2 -0.0525 -90)
 			(layer "B.SilkS")
 			(uuid "4f8551ef-81e0-4c00-b301-85894fec4dc3")
 			(effects
@@ -4297,7 +4297,7 @@
 			)
 		)
 		(property "Value" "2,2kR"
-			(at 0 -1.17 270)
+			(at 0 -1.17 -90)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b16b44a1-9ac6-425a-b99b-e6545323218f")
@@ -4454,7 +4454,7 @@
 			(uuid "dfdf61ff-c793-450c-85c0-0ba669723b9c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "1ae2b4e6-9832-4116-b1a2-bef35a1d9aed")
 			(effects
@@ -4731,7 +4731,7 @@
 			)
 		)
 		(property "Value" "2,2kR"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c520828f-6704-478b-bb51-6c1a91c60390")
@@ -4888,7 +4888,7 @@
 			(uuid "ea4ef247-8c19-4288-aa93-dd179a294275")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "844eca80-dee5-477c-9409-6d26caccec20")
 			(effects
@@ -5797,16 +5797,25 @@
 			)
 		)
 	)
-	(gr_rect
+	(gr_line
 		(start 84.05 54.75)
-		(end 115.35 88.75)
+		(end 84.05 88.75)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
 		(layer "Edge.Cuts")
-		(uuid "52b5e067-d168-4c4a-9400-163138d6bdb5")
+		(uuid "5add06dc-d95d-4b59-8edd-615e4eb4ec80")
+	)
+	(gr_line
+		(start 115.35 88.75)
+		(end 115.35 54.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "79332a53-f24e-4845-9bf0-7c616d0c5f2a")
 	)
 	(gr_circle
 		(center 87.35 71.85)
@@ -5818,6 +5827,26 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "88ecd287-391a-4638-b001-bc88a2b1e583")
+	)
+	(gr_line
+		(start 84.05 54.75)
+		(end 115.35 54.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d3ac192a-0996-4292-9448-74caf227db3f")
+	)
+	(gr_line
+		(start 115.35 88.75)
+		(end 84.05 88.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d629ef24-9557-4cab-8c94-8040119313df")
 	)
 	(segment
 		(start 101.65 60.75)
