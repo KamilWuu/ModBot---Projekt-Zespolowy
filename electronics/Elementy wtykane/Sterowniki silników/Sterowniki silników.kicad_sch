@@ -1556,7 +1556,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "500R"
+		(property "Value" "1kR"
 			(at 82.55 30.48 0)
 			(effects
 				(font
@@ -1583,7 +1583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0805"
 			(at 80.01 29.21 0)
 			(effects
 				(font
@@ -1693,7 +1693,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "500R"
+		(property "Value" "1kR"
 			(at 93.98 35.56 0)
 			(effects
 				(font
@@ -1720,7 +1720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0805"
 			(at 91.44 36.83 0)
 			(effects
 				(font
@@ -2038,7 +2038,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "47uF"
 			(at 66.04 32.131 0)
 			(effects
 				(font
@@ -2065,7 +2065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tantal"
 			(at 62.23 31.75 0)
 			(effects
 				(font
