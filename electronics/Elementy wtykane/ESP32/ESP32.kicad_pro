@@ -486,7 +486,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../mechanics/STEP/ESP32.step",
       "svg": "",
       "vrml": ""
     },

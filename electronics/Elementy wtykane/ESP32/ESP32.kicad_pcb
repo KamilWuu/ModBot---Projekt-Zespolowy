@@ -2022,9 +2022,9 @@
 			(pintype "passive")
 			(uuid "db7f759d-7235-46a1-9654-30a689dfb649")
 		)
-		(model "ESP32-WROOM-32E-N4.stp"
+		(model "C:/Users/kamil/Documents/PROJECTS - repos/ModBot---Projekt-Zespolowy/mechanics/STEP/ESP32-S3-WROOM-1.STEP"
 			(offset
-				(xyz -0.1199999955 0 0)
+				(xyz -0.12 -3 0)
 			)
 			(scale
 				(xyz 1 1 1)

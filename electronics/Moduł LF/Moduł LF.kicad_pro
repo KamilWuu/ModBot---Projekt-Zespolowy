@@ -470,7 +470,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../mechanics/STEP/Moduł LF.step",
       "svg": "",
       "vrml": ""
     },
