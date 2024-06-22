@@ -1,1 +1,1 @@
-code
+Folder ModBot należy spakować do pliku zip, łącznie z OLED-extension i następnie załadować je do microBlock IDE. 
